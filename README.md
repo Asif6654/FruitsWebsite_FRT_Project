@@ -1,8 +1,12 @@
 # FruitsWebsite_FRT_Project
 
+## This Website Is Hosted Using Azure Services
+
 ## Microsoft Azure(Static Web App) Link: https://thankful-stone-0a3fc5f10.2.azurestaticapps.net
+![Screenshot 2022-10-29 085839](https://user-images.githubusercontent.com/96674836/198806529-86c386c1-8563-4b0b-93c0-4a47e51ddae3.png)
 
 ## Microsoft Azure(App Services) Link: https://fruitswebsiteappservices.azurewebsites.net
+![Screenshot 2022-10-29 085908](https://user-images.githubusercontent.com/96674836/198806579-71b440fb-37ac-414d-b655-142f3eb2bd28.png)
 
 ## Home Page
 ![Screenshot 2022-10-28 165109](https://user-images.githubusercontent.com/96674836/198575585-f14ff7d9-31de-4f6b-9455-a675feadd991.png)
