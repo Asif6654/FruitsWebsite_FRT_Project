@@ -1,5 +1,9 @@
 # FruitsWebsite_FRT_Project
 
+# This Project Is Developed Using Everything That Was Mentioned By Future Ready Talent Mentors And Satisfies All The Requirements
+
+# This Website Is Hosted On The Internet By Using Azure Services Like Static Web Apps And App Services.
+
 ## This Website Is Hosted Using Azure Services
 
 ## Microsoft Azure(Static Web App) Link: https://thankful-stone-0a3fc5f10.2.azurestaticapps.net
