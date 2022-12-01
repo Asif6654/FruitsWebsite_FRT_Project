@@ -2,6 +2,8 @@
 
 # This Project Is Developed Using Everything That Was Mentioned By Future Ready Talent Mentors And Satisfies All The Requirements
 
+# For Editing Of The Code Of The Project, I used VS Code.
+
 # This Website Is Hosted On The Internet By Using Azure Services Like Static Web Apps And App Services.
 
 ## This Website Is Hosted Using Azure Services
