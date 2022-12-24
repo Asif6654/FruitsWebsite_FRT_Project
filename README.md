@@ -6,6 +6,9 @@
 
 # This Website Is Hosted On The Internet By Using Azure Services Like Static Web Apps And App Services.
 
+# Video Link Of The Project
+https://drive.google.com/file/d/1We3nUrODfv5414jdgrBZA7A_iwV2u8ms/view?usp=sharing
+
 ## This Website Is Hosted Using Azure Services
 
 ## Microsoft Azure(Static Web App) Link: https://wonderful-wave-0d0d16b10.2.azurestaticapps.net/
