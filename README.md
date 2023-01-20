@@ -1,20 +1,22 @@
 # FruitsWebsite_FRT_Project
 
-# This Project Is Developed Using Everything That Was Mentioned By Future Ready Talent Mentors And Satisfies All The Requirements
+## This Project Is Developed Using Everything That Was Mentioned By Future Ready Talent Mentors And Satisfies All The Requirements
 
 ![Screenshot 2023-01-20 144336](https://user-images.githubusercontent.com/96674836/213659177-e6c5e417-be67-4eba-8451-4648443f44cd.png)
 
-# For Editing Of The Code Of The Project, I used VS Code.
+## For Editing Of The Code Of The Project, I used VS Code.
 
-# This Website Is Hosted On The Internet By Using Azure Services Like Static Web Apps And App Services.
+## This Website Is Hosted On The Internet By Using Azure Services Like Static Web Apps And App Services.
 
-# Video Link Of The Project
+## Video Link Of The Project
 https://drive.google.com/file/d/1We3nUrODfv5414jdgrBZA7A_iwV2u8ms/view?usp=sharing
+
 
 ## This Website Is Hosted Using Azure Services
 
 ## Microsoft Azure(Static Web App) Link: https://wonderful-wave-0d0d16b10.2.azurestaticapps.net/
-![Screenshot 2022-12-24 132137](https://user-images.githubusercontent.com/96674836/209426615-51cd5619-b1a8-4e88-9b53-0a696896b7b0.png)
+![Screenshot 2023-01-20 145212](https://user-images.githubusercontent.com/96674836/213660454-c0ab0f61-5e4f-4154-99be-70257df672e7.png)
+
 
 ## Microsoft Azure(App Services) Link: https://fruitswebsiteappservices.azurewebsites.net
 ![Screenshot 2022-10-29 085908](https://user-images.githubusercontent.com/96674836/198806579-71b440fb-37ac-414d-b655-142f3eb2bd28.png)
